@@ -1,4 +1,4 @@
 # Flight-Price-Prediction
 
-![FPP1](https://user-iamages.githubusercontent.com/61621224/89753437-e4482f00-daf5-11ea-8bb2-ec5193e8b09f.PNG)
+Determine the minimum Custom Fare for a particular pair of sorce and destination by giving depearture time and arival time of flight.
 
