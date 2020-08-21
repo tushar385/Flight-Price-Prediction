@@ -19,7 +19,7 @@ Size of test set: 2671 records.
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
 
-## Table of Content
+## Steps Performed
 
 1. Import dataset.  
 2. Data preprocessing.  
