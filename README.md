@@ -10,6 +10,9 @@ Here you will be provided with prices of flight tickets for various airlines bet
 Size of training set: 10683 records.  
 Size of test set: 2671 records.  
 
+## Overview
+This is a Flask web app which predicts fare of Flight ticket.
+
 <h3>Table of Content</h3>
 
 1. Import dataset.  
