@@ -25,5 +25,5 @@ This is a Flask web app which predicts fare of Flight ticket.
 2. Data preprocessing.  
 3. Handling Catagorial Data.  
 4. Correlation and Ploting Important Feature.  
-5. Model Building RandomizedSearchCV.  
+5. Model Building using RandomForestRegressor and RandomizedSearchCV.  
 6. Saving the Model.  
